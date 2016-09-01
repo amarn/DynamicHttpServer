@@ -14,5 +14,4 @@ scratch a simple version of ExpressJS framework which enables adding dynamic
 functionality to that server (i.e parsing cookies, serving static files, 
 URL parameters and more).
 
-You can read more about this project here: 
-https://dl.dropboxusercontent.com/u/44007816/site/dynamicHttpServer.html
+You can read more about this project here: https://eranamar.herokuapp.com/dynamicHttpServer.html
